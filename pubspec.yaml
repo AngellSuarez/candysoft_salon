@@ -24,6 +24,9 @@ dependencies:
   fluttertoast: ^8.2.4
   fl_chart: ^0.65.0
   image_picker: ^1.0.4
+  
+  # Desktop window management
+  window_manager: ^0.4.2
 
 dev_dependencies:
   flutter_test:    # CRITICAL: Required for Flutter project testing - DO NOT REMOVE
